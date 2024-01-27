@@ -1,0 +1,43 @@
+.info-span{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  
+}
+.crypto-card{
+    max-width: 20rem;
+    border: 1px solid #2C223B;
+    border-radius: 1rem;
+    padding: 0.7rem;
+    margin: auto;
+}
+.name-span{
+    background: #B6B6B6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.3rem;
+    border-radius: 0.4rem;
+}
+.name-span p{
+    text-align: center;
+}
+.crypto-card img{
+    background: transparent;
+    width: 3rem;
+}
+.price-span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+}
+.price-span img{
+    align-self: flex-end;
+}
+.field{
+    gap: 1rem;
+    margin-bottom: 2rem;
+}

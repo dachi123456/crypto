@@ -1,0 +1,14 @@
+.coin-price-div img{
+    width: 3rem;
+}
+.coin-price-div{
+    width: 85%;
+    margin: auto;
+}
+.coin-price-div h5{
+    font-size: 1.1rem;
+}
+.coin-price-div h1{
+    margin-bottom: 1rem;
+    color: aqua;
+}

@@ -1,0 +1,30 @@
+.landing-main-div{
+    margin-top: 9rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+.landing-main-div h1,p {
+    color: white;
+    text-align: center;
+}
+.landing-main-div h1{
+    font-weight: 900 !important;
+}
+.landing-main-div p{
+    margin-top: 1rem;
+    color: #B6B6B6;
+}
+.landing-main-div button{
+    background: #0FAE96;
+    border:#0FAE96;
+    width: 8rem;
+    height: 3rem;
+    font-size: 1.1rem;
+    margin-top: 1.3rem;
+}
+.landing-main-div img{
+    max-width: 70%;
+}

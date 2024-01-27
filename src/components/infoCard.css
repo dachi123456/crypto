@@ -1,0 +1,35 @@
+.my-card{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 0.3px solid rgb(37, 85, 95);
+    border-top: 0;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+.my-card:hover{
+    background: #13043b;
+}
+.list-div{
+    margin-top: 3rem;
+    width: 60%;
+    margin: auto;
+}
+.list-div img{
+    background: transparent;
+}
+.list-div p,h5,h6{
+    color: white;
+    background-color: transparent;
+}
+.list-div h5,h6{
+    font-size: 1.2rem;
+}
+.list-div h5{
+    text-align: end;
+}
+ h6{
+    color: #00C3FD;
+}

@@ -1,0 +1,36 @@
+.chart{
+    margin: auto;
+    max-width: 100%;
+    margin-top: 6rem;
+}
+.chart svg{
+    width: 100% !important;
+}
+.recharts-wrapper{
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.chart select{
+    color: white;
+    width: 8rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    margin-left: 4rem;
+}
+.chart option{
+    color: white;
+    font-size: 1.2rem;
+}
+.recharts-tooltip-label{
+    color:white;
+}
+.recharts-default-tooltip {
+    padding: 1px !important;
+}
+.add-info{
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

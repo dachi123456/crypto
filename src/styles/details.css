@@ -1,0 +1,28 @@
+.details-page-div{
+    margin-top: 3rem;
+    padding: 2rem;
+}
+.details-page-div img{
+    width: 10rem;
+}
+.details-page-div div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.details-page-div h4{
+    color:rgb(150, 180, 180);
+}
+.details-page-div p,h2{
+    color: white;
+}
+.details-page-div p {
+    margin-top: 4rem;
+}
+.details-page-div h2{
+    font-size: 1.7rem;
+}
+.details-page-div h4{
+    margin-bottom: 1.5rem;
+}
